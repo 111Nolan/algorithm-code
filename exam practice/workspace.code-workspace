@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "..\\c++"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\yjz111-blog"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"random": "cpp",
+			"array": "cpp",
+			"fstream": "cpp",
+			"future": "cpp",
+			"shared_mutex": "cpp",
+			"sstream": "cpp",
+			"thread": "cpp",
+			"tuple": "cpp",
+			"ostream": "cpp",
+			"cmath": "cpp",
+			"vector": "cpp",
+			"optional": "cpp",
+			"istream": "cpp",
+			"ratio": "cpp",
+			"system_error": "cpp",
+			"functional": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"regex": "cpp"
+		}
+	}
+}
